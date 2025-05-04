@@ -1,10 +1,10 @@
-import BmiCalculator from "./components/BmiCalculator";
+// import BmiCalculator from "./components/BmiCalculator";
 import './App.css'
 
 function App() {
   return (
-    <>
-      <BmiCalculator />
+    <>dsfsdf
+      {/* <BmiCalculator /> */}
     </>
   )
 }
